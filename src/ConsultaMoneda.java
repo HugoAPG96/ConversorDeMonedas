@@ -1,7 +1,7 @@
 public class ConsultaMoneda {
 
     Moneda buscaMoneda(){
-        System.out.printf("holla");
+        System.out.print("hola");
         return null;
     }
 }
